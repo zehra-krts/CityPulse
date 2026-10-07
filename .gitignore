@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+*.iml
+build/
+.dart_tool/
+.gradle/
+.kotlin/
+local.properties
+google-services.json
